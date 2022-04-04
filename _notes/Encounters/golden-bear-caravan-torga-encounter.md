@@ -1,7 +1,0 @@
----
-tags:
-  - encounter
-  - session
-  - story
----
-

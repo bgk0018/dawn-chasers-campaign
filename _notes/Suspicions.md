@@ -4,4 +4,4 @@ tags:
   - suspicious
 ---
 
-* [[Torga]] is in cahoots with [[naerth-maxildanarr]]
+* [[Torga]] is in cahoots with [[Naerth Maxildanarr]]

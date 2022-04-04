@@ -4,4 +4,4 @@ tags:
   - location
 ---
 
-Tavern where [[naerth-maxildanarr]] office is in [[Targos]]
+Tavern where [[Naerth Maxildanarr]] office is in [[Targos]]

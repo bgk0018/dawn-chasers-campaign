@@ -6,7 +6,7 @@ tags:
   - session-04022022
 ---
 
-Objective: Find [[Prudence]] to ask about [[naerth-maxildanarr]] and [[Cauldron]]
+Objective: Find [[Prudence]] to ask about [[Naerth Maxildanarr]] and [[Cauldron]]
 
 * [[Sam Slippy Robbins]] Could tell that someone had somewhat recently been here as the snow was disturbed at the front door
 * [[Sam Slippy Robbins]] sent [[Mr Feely]] across the building to see if we could find some ways inside, but couldn't see anything inside

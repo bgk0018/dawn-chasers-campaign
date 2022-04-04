@@ -1,5 +1,5 @@
 ---
-title: Naerth-Maxildanarr
+title: Naerth Maxildanarr
 tags:
   - npc
   - enemy
