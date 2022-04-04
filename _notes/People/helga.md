@@ -6,4 +6,4 @@ tags:
 
 
 Doesn't like Zari's armor
-Rifled through [[Garrett Note For Zassteeah]]'s bodies
+Rifled through [[Garrett's Note For Zassteeah]]'s bodies

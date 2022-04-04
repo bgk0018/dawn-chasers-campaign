@@ -4,7 +4,7 @@ tags:
   - player-character
 ---
 
-Received a partial [[Garrett Note For Zassteeah]] from [[Garrett Keegan and Dangle]]
+Received a partial [[Garrett's Note For Zassteeah]] from [[Garrett Keegan and Dangle]]
 Parents were part of a cult
 Managed to burn down the cult
 

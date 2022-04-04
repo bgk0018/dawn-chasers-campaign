@@ -4,6 +4,9 @@ tags:
   - location
 ---
 
+<img src="../../assets/easthaven.jpeg"/>
+
+
 * Where we found the [[Golden Bear Caravan]] and [[Torga]]
 * Where we sold the [[Cauldron]]
 * Where the [[Cauldron Bandits]] stole the [[Cauldron]]
