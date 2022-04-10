@@ -4,4 +4,4 @@ tags:
   - location
 ---
 
-<img src="../../assets/caer-dineval.webp"/>
+![](../../assets/caer-dineval.webp)

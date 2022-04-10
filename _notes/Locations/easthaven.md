@@ -4,7 +4,7 @@ tags:
   - location
 ---
 
-<img src="../../assets/easthaven.jpeg"/>
+![](../../assets/easthaven.jpeg)
 
 
 * Where we found the [[Golden Bear Caravan]] and [[Torga]]

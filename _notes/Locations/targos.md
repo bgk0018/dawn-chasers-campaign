@@ -4,6 +4,6 @@ tags:
   - location
 ---
 
-<img src="../../assets/targos.png"/>
+![](../../assets/targos.png)
 
 [[Tentown]] city
