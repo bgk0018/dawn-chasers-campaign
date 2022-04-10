@@ -4,7 +4,14 @@ tags:
   - player-character
 ---
 
+Image tag
 <img src="../assets/sam-robbins.png"/>
+
+Double Brackets
+![[assets/sam-robbins.png]]
+
+Single Brackets
+![](assets/sam-robbins.png)
 
 # Background
 
