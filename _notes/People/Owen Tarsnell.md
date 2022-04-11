@@ -4,6 +4,7 @@ tags:
   - npc
   - friend
   - suspicious
+menu: People
 ---
 
 * Bartender at [[Rexentruum Arms]]

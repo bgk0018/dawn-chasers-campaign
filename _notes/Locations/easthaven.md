@@ -2,6 +2,7 @@
 title: Easthaven
 tags:
   - location
+menu: Locations
 ---
 
 ![](../../assets/easthaven.jpeg)

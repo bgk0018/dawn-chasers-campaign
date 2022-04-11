@@ -4,5 +4,6 @@ tags:
   - encounter
   - story
   - session
+menu: Encounters
 ---
 

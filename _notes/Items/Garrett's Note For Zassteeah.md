@@ -3,6 +3,7 @@ title: Garrett's Note For Zassteeah
 tags:
   - item
   - story
+menu: Items
 ---
 
 

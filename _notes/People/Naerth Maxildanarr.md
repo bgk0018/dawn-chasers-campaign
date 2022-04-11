@@ -4,6 +4,7 @@ tags:
   - npc
   - enemy
   - suspicious
+menu: People
 ---
 
 * Speaker of [[Targos]]

@@ -4,6 +4,7 @@ tags:
   - story
   - encounter
   - session-04022022
+menu: Encounters
 ---
 
 Objective: Get [[Zassteeah Zass Maryis]] bottle into [[Naerth Maxildanarr]]'s office by a food tray with a flower bottle

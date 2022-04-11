@@ -2,6 +2,7 @@
 title: Helga
 tags:
   - player-character
+menu: People
 ---
 
 

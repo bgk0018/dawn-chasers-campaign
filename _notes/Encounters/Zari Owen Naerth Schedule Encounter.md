@@ -4,6 +4,7 @@ tags:
   - story
   - encounter
   - session-04022022
+menu: Encounters
 ---
 
 Objective: Get [[Naerth Maxildanarr]]'s schedule so we can see how we can get more information from him

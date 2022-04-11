@@ -4,6 +4,7 @@ tags:
   - encounter
   - story
   - session-04022022
+menu: Encounters
 ---
 
 Objective: Find [[Prudence]] to ask about [[Naerth Maxildanarr]] and [[Cauldron]]

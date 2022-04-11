@@ -3,6 +3,7 @@ title: Naerth Maxildanarr Office Note
 tags:
   - story
   - item
+menu: Items
 ---
 
 [[Bryn Shander|Bryn Shander]] note - 

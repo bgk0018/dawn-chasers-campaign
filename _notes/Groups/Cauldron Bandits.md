@@ -3,6 +3,7 @@ title: Cauldron Bandits
 tags:
   - group
   - enemy
+menu: Groups
 ---
 
 * Someone came and stole the cauldron from us in [[Easthaven]] and is headed towards [[Targos]]

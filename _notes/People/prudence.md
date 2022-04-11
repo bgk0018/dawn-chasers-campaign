@@ -4,6 +4,7 @@ tags:
   - npc
   - neutral
   - suspicious
+menu: People
 ---
 
 * Associated with [[Naerth Maxildanarr]]

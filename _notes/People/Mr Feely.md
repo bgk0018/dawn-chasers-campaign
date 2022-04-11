@@ -3,6 +3,7 @@ title: Mr Feely
 tags:
   - npc
   - spell
+menu: People
 ---
 
 

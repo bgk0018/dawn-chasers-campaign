@@ -4,5 +4,5 @@ tags:
   - npc
   - friend
   - suspicious
----
+menu: People
 ---

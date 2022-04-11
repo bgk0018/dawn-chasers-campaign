@@ -2,6 +2,7 @@
 title: Goodmead
 tags:
   - location
+menu: Locations
 ---
 
 ![](../../assets/good-mead.png)

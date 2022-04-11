@@ -4,6 +4,7 @@ tags:
   - npc
   - suspicious
   - neutral
+menu: People
 ---
 
 Lady with cart and dead body in the back

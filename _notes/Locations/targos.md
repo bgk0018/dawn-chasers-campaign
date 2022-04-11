@@ -2,6 +2,7 @@
 title: Targos
 tags:
   - location
+menu: Locations
 ---
 
 ![](../../assets/targos.png)

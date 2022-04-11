@@ -3,6 +3,7 @@ title: Prudence Note
 tags:
   - story
   - item
+menu: Items
 ---
 
 "Deliver to [[Goodmead]]"

@@ -2,6 +2,7 @@
 title: Sam Slippy Robbins
 tags:
   - player-character
+menu: People
 ---
 
 Sam "Slippy" Robbins is a 20 year old human young adult with unkempt curly black hair and crooked teeth. He's dressed in what looks like a mismatch of hand-me-down clothes that mostly fit and an assortment of various weapons, almost as if he had asked for 'one of everything' from the local blacksmith. He's a forgettable face in the crowd and not one that stands out. The only thing that would catch someone's eye is the ornate book he carries chained across his hips.

@@ -3,6 +3,7 @@ title: Garrett Keegan and Dangle
 tags:
   - friend
   - npc
+menu: People
 ---
 
 
