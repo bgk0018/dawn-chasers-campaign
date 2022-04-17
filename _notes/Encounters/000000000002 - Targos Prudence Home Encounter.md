@@ -1,14 +1,13 @@
 ---
-title: Targos Prudence Home Encounter
+title: "Encounter: Targos Prudence Home"
 tags:
   - encounter
   - story
-  - session-04022022
 menu: Encounters
 ---
+**Objective:** Find [[Prudence]] to ask about [[Naerth Maxildanarr]] and [[Cauldron]]
 
-Objective: Find [[Prudence]] to ask about [[Naerth Maxildanarr]] and [[Cauldron]]
-
+**Encounter:**
 * [[Sam Slippy Robbins]] Could tell that someone had somewhat recently been here as the snow was disturbed at the front door
 * [[Sam Slippy Robbins]] sent [[Mr Feely]] across the building to see if we could find some ways inside, but couldn't see anything inside
 * [[Sam Slippy Robbins]] stealthed up to the door and looked inside the window at the front
@@ -16,3 +15,5 @@ Objective: Find [[Prudence]] to ask about [[Naerth Maxildanarr]] and [[Cauldron]
 * [[Sam Slippy Robbins]] finds [[Prudence]] dead inbetween bed and wall
     * No struggle on [[Prudence]]'s death, it was a quick death
     * Find a [[Prudence Note]]
+
+[[000000000001 - Golden Bear Caravan Torga Encounter]] <--> [[000000000003 - Zari Owen Naerth Schedule Encounter]]

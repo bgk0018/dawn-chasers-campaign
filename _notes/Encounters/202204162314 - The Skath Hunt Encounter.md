@@ -1,0 +1,24 @@
+---
+title: "Encounter: The Skath Hunt"
+tags: [encounter]
+menu: Encounters
+---
+**Objective:** Find [[Captain Skath]] or find where the [[Cauldron]] is being held
+
+**Encounter:**
+- The group waits until midnight and then goes and talks to the local stable hand so [[Raphael King Ambrosius Costeau]] can talk to the animals
+- [[Sam Slippy Robbins]] looks to distract the stable hand
+- [[Sam Slippy Robbins]] and the stable hand play catch with [[Mr Feely]] and the stable hand gets drunk
+- [[Raphael King Ambrosius Costeau]] chooses to speak with animals while the stable hand is distracted
+- [[Zassteeah Zass Maryis]]'s [[Zassteeahs Axebeak]] seems to be pretty friendly, [[Raphael King Ambrosius Costeau]] speaks with it
+	- [[Zassteeahs Axebeak]] has not seen the [[Cauldron]]
+	- [[Zassteeahs Axebeak]] does not know about [[Captain Skath]]
+	- [[Zassteeahs Axebeak]] does not know [[Torga]]
+- [[Raphael King Ambrosius Costeau]] talks to one of the sled dogs
+	- Sled dogs have not seen the [[Cauldron]]
+	- Sled dogs have not seen [[Captain Skath]]
+- [[Sam Slippy Robbins]] gets out of the stable boy that [[Captain Skath]] lives over in the docks
+- Head over to [[Three Flag Sailing]], it's bumping and send [[Zassteeah Zass Maryis]] in to find out specifically where [[Captain Skath]] lives
+- [[Ethen Ma Yarlberl]] pointed us to where [[Captain Skath]] lives
+
+ [[202204162240 - Zaas and Naerth Discussion]] <-->

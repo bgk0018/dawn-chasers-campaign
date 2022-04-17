@@ -1,6 +1,10 @@
 ---
-title: {{date}}-{{title}}
+title: "Encounter: {{title}}"
 tags: [encounter]
 menu: Encounters
 ---
+**Objective:** 
 
+**Encounter:**
+
+ <--> 
