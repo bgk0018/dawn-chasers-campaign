@@ -3,8 +3,7 @@ title: "Encounter: On The Way to Goodmead"
 tags: [encounter]
 menu: Encounters
 ---
-**Objective:** 
-- Head off [[Captain Skath]] with the [[Cauldron of Plenty]]
+**Objective:** Head off [[Captain Skath]] with the [[Cauldron of Plenty]]
 
 **Encounter:**
 - End up hiding from a frost troll

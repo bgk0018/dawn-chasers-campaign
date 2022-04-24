@@ -3,8 +3,7 @@ title: "Encounter: Skath's House Investigation"
 tags: [encounter]
 menu: Encounters
 ---
-**Objective:** 
-- Find [[Captain Skath]] or the [[Cauldron of Plenty]]
+**Objective:** Find [[Captain Skath]] or the [[Cauldron of Plenty]]
 
 **Encounter:**
 - [[Sam Slippy Robbins]] and [[Raphael King Ambrosius Costeau]] sneak up to the house

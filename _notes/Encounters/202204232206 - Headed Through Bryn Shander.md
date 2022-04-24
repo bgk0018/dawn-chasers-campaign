@@ -3,8 +3,7 @@ title: "Encounter: Headed Through Bryn Shander"
 tags: [encounter]
 menu: Encounters
 ---
-**Objective:** 
-- Catch [[Captain Skath]] and the [[Cauldron of Plenty]] on the road to [[Goodmead]]
+**Objective:** Catch [[Captain Skath]] and the [[Cauldron of Plenty]] on the road to [[Goodmead]]
 
 **Encounter:**
 - [[Zassteeah Zass Maryis]] shares that her parents are somehow involved with the [[Cult]] in [[Caer Dineval]] and she wants to go there after we hunt down the [[Cauldron of Plenty]]
