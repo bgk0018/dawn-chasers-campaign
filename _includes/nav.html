@@ -62,7 +62,7 @@
         <li>
             Encounters
             <ul>
-                {% for item in site.notes %}
+                {% for item in site.notes reversed %}
                 {% if item.menu == 'Encounters' %}
                 <li {% if page.url contains item.url %}class="active" {% endif %}><a href="{{ item.url }}">{{ item.title
                         }}</a>
@@ -74,7 +74,7 @@
         <li>
             Rumors
             <ul>
-                {% for item in site.notes %}
+                {% for item in site.notes  reversed %}
                 {% if item.menu == 'Rumors' %}
                 <li {% if page.url contains item.url %}class="active" {% endif %}><a href="{{ item.url }}">{{ item.title
                         }}</a>
