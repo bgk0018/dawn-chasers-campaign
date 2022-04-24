@@ -21,4 +21,4 @@ menu: Encounters
 - Head over to [[Three Flag Sailing]], it's bumping and send [[Zassteeah Zass Maryis]] in to find out specifically where [[Captain Skath]] lives
 - [[Ethen Ma Yarlberl]] pointed us to where [[Captain Skath]] lives
 
- [[202204162240 - Zaas and Naerth Discussion]] <-->
+ [[202204162240 - Zaas and Naerth Discussion]] <--> [[202204232033]]
