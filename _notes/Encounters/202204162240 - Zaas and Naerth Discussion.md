@@ -12,4 +12,5 @@ menu: Encounters
 - [[Naerth Maxildanarr]] has heard of our work in [[Easthaven]] and that he'd mentioned [[Torga]] previously and that we'd apprehended her and that we'd come across a murderer as well
 - [[Naerth Maxildanarr]] wants to talk about our services tomorrow
 
+**Timeline**
 [[202204162129 - Save Zaas Encounter]] <--> [[202204162314 - The Skath Hunt]]

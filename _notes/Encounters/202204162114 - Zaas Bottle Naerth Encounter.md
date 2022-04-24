@@ -27,4 +27,5 @@ menu: Encounters
 - Still have that problem in [[Caer Dineval]] we lost contact with our people there
 - Sends [[Captain Skath]] to [[Goodmead]] to make sure that everything goes according to plan
 
+**Timeline**
 [[000000000003 - Zari Owen Naerth Schedule Encounter]] <--> [[202204162129 - Save Zaas Encounter]]

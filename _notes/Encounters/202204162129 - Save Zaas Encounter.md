@@ -12,4 +12,5 @@ menu: Encounters
 - [[Sam Slippy Robbins]] swaps the bottles and then makes it back to their room
 - [[Raphael King Ambrosius Costeau]] goes down to alert [[Zari]] and [[Helga]] that we've retrieved [[Zassteeah Zass Maryis]]
 
+**Timeline**
 [[202204162114 - Zaas Bottle Naerth Encounter]] <--> [[202204162240 - Zaas and Naerth Discussion]]

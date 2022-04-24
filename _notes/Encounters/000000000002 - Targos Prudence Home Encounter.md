@@ -16,4 +16,5 @@ menu: Encounters
     * No struggle on [[Prudence]]'s death, it was a quick death
     * Find a [[Prudence Note]]
 
+**Timeline**
 [[000000000001 - Golden Bear Caravan Torga Encounter]] <--> [[000000000003 - Zari Owen Naerth Schedule Encounter]]

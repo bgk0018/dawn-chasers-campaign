@@ -15,4 +15,5 @@ menu: Encounters
 * [[Raphael King Ambrosius Costeau]] and [[Sam Slippy Robbins]] will rent a room near by just in case things go wrong
 * We'll rescue [[Zassteeah Zass Maryis]] from the room and the bottle
 
+**Timeline**
 [[000000000002 - Targos Prudence Home Encounter]] <--> [[202204162114 - Zaas Bottle Naerth Encounter]]

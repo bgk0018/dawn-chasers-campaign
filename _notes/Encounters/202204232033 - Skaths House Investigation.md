@@ -24,4 +24,5 @@ menu: Encounters
 - The party returns to the [[Rexentruum Arms]] to get the party [[Axebeak]]s from [[Owen Tarsnell]]
 - [[Zassteeah Zass Maryis]] runs into [[Naerth Maxildanarr]] who tells us that some of his sources went dark in [[Caer Dineval]], said that they're having issues with the either the [[Cult]] and 2 people named [[Erin Maryis]] and [[Daelith Maryis]] that's there or the [[Duergar]]
 
+**Timeline**
  [[202204162314 - The Skath Hunt]] <--> [[202204232206 - Headed Through Bryn Shander]]

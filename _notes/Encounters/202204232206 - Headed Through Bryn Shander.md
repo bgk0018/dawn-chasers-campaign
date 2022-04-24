@@ -20,4 +20,5 @@ menu: Encounters
 	- Bought [[Oil of Slipperiness]]
 	- Bought 4 [[Health Potion]]s
 
+**Timeline**
 [[202204232033 - Skaths House Investigation]] <--> [[202204232305 - On The Way to Goodmead]]

@@ -10,5 +10,5 @@ menu: Encounters
 
 **Encounter:**
 
-
+**Timeline**
  <--> [[000000000002 - Targos Prudence Home Encounter]]
