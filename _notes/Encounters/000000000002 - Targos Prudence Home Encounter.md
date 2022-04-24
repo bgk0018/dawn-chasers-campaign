@@ -5,7 +5,7 @@ tags:
   - story
 menu: Encounters
 ---
-**Objective:** Find [[Prudence]] to ask about [[Naerth Maxildanarr]] and [[Cauldron]]
+**Objective:** Find [[Prudence]] to ask about [[Naerth Maxildanarr]] and [[Cauldron of Plenty]]
 
 **Encounter:**
 * [[Sam Slippy Robbins]] Could tell that someone had somewhat recently been here as the snow was disturbed at the front door

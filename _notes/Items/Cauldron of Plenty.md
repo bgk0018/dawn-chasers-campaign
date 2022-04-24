@@ -1,5 +1,5 @@
 ---
-title: Cauldron
+title: Cauldron of Plenty
 tags:
   - magic-item
 menu: Items

@@ -9,4 +9,6 @@ Received a partial [[Garrett's Note For Zassteeah]] from [[Garrett Keegan and Da
 Parents were part of a cult
 Managed to burn down the cult
 
+Was a page out of [[Bryn Shander]]
+
 Owns [[Zassteeah Zass Maryis Bottle]]
