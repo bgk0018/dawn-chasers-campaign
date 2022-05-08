@@ -3,7 +3,8 @@ title: Olivessa Untapoor
 tags:
   - npc
   - friend
-  - suspicious
 menu: People
 alias: [Olivessa]
 ---
+
+![](../../assets/olivessa.png)
