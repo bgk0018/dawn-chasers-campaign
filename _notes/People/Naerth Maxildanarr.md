@@ -5,6 +5,7 @@ tags:
   - enemy
   - suspicious
 menu: People
+alias: [Naerth]
 ---
 
 * Speaker of [[Targos]]
