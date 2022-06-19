@@ -20,7 +20,6 @@ menu: Encounters
 	- Front entrance has a huge creature tracks
 	- Back entrance has a bear, and 2 humanoid tracks, one with boots
 	- We follow the human tracks
-- 
 
 **Timeline**
  [[202205072140 - Settling in at The Mead Hall]] <--> 
