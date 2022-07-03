@@ -22,4 +22,4 @@ menu: Encounters
 	- We follow the human tracks
 
 **Timeline**
- [[202205072140 - Settling in at The Mead Hall]] <--> 
+ [[202205072140 - Settling in at The Mead Hall]] <--> [[202206112113 - Verbeeg Lair]]

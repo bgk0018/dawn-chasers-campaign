@@ -5,4 +5,4 @@ tags:
 menu: Rumors
 ---
 
-According to [[Raphael King Ambrosius Costeau]], [[Torga]]might be in cahoots with [[Naerth Maxildanarr]]
+According to [[Raphael King Ambrosius Costeau]], [[Torga]] might be in cahoots with [[Naerth Maxildanarr]]
