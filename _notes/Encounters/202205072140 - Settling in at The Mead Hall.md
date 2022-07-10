@@ -1,6 +1,6 @@
 ---
 title: "Encounter: 202205072140 - Settling in at The Mead Hall"
-tags: [encounter]
+tags: [encounter, timeline]
 menu: Encounters
 ---
 **Objective:** 
@@ -26,3 +26,5 @@ menu: Encounters
 
 **Timeline**
  [[202205072125 - The Lowdown on Goodmead]] <--> [[202205072228 - Approaching Fef the Trapper]]
+ 
+<span class='ob-timelines' data-date='1510-03-28-00' data-title="Settling in at The Mead Hall"></span>

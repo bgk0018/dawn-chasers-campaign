@@ -1,6 +1,6 @@
 ---
 title: "Encounter: Save Zaas"
-tags: [encounter]
+tags: [encounter, timeline]
 menu: Encounters
 ---
 **Objective:** Get [[Zassteeah Zass Maryis]] out of [[Naerth Maxildanarr]]'s office after [[202204162114 - Zaas Bottle Naerth Encounter]].
@@ -14,3 +14,5 @@ menu: Encounters
 
 **Timeline**
 [[202204162114 - Zaas Bottle Naerth Encounter]] <--> [[202204162240 - Zaas and Naerth Discussion]]
+
+<span class='ob-timelines' data-date='1503-03-28-00' data-title="Save Zaas Encounter"></span>

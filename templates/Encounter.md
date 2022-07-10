@@ -1,6 +1,6 @@
 ---
 title: "Encounter: {{title}}"
-tags: [encounter]
+tags: [encounter, timeline]
 menu: Encounters
 ---
 **Objective:** 

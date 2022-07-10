@@ -1,6 +1,6 @@
 ---
 title: "Encounter: Zaas and Naerth Discussion"
-tags: [encounter]
+tags: [encounter, timeline]
 menu: Encounters
 ---
 **Objective:** Find out how the [[Dawn Chasers]] can work with [[Naerth Maxildanarr]]
@@ -14,3 +14,5 @@ menu: Encounters
 
 **Timeline**
 [[202204162129 - Save Zaas Encounter]] <--> [[202204162314 - The Skath Hunt]]
+
+<span class='ob-timelines' data-date='1504-03-28-00' data-title="Zaas and Naerth Discussion"></span>

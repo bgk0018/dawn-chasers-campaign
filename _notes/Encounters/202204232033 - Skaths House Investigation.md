@@ -1,6 +1,6 @@
 ---
 title: "Encounter: Skath's House Investigation"
-tags: [encounter]
+tags: [encounter, timeline]
 menu: Encounters
 ---
 **Objective:** Find [[Captain Skath]] or the [[Cauldron of Plenty]]
@@ -25,3 +25,5 @@ menu: Encounters
 
 **Timeline**
  [[202204162314 - The Skath Hunt]] <--> [[202204232206 - Headed Through Bryn Shander]]
+ 
+<span class='ob-timelines' data-date='1506-03-28-00' data-title="Skaths House Investigation"></span>

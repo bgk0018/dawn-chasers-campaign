@@ -1,6 +1,6 @@
 ---
 title: "Encounter: Approaching Fef the Trapper"
-tags: [encounter]
+tags: [encounter, timeline]
 menu: Encounters
 ---
 **Objective:** 
@@ -23,3 +23,5 @@ menu: Encounters
 
 **Timeline**
  [[202205072140 - Settling in at The Mead Hall]] <--> [[202206112113 - Verbeeg Lair]]
+
+<span class='ob-timelines' data-date='1511-03-28-00' data-title="Approaching Fef the Trapper"></span>

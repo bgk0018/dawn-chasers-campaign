@@ -1,6 +1,6 @@
 ---
 title: "Encounter: On The Way to Goodmead"
-tags: [encounter]
+tags: [encounter, timeline]
 menu: Encounters
 ---
 **Objective:**
@@ -13,3 +13,5 @@ menu: Encounters
 
 **Timeline**
 [[202204232206 - Headed Through Bryn Shander]] <--> [[202205072125 - The Lowdown on Goodmead]]
+
+<span class='ob-timelines' data-date='1508-03-28-00' data-title="On The Way to Goodmead"></span>

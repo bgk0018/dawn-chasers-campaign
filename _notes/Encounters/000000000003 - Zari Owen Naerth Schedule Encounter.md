@@ -3,6 +3,7 @@ title: "Encounter: Zari Owen Naerth Schedule Encounter"
 tags:
   - story
   - encounter
+  - timeline
 menu: Encounters
 ---
 **Objective:** Get [[Naerth Maxildanarr]]'s schedule so we can see how we can get more information from him
@@ -17,3 +18,5 @@ menu: Encounters
 
 **Timeline**
 [[000000000002 - Targos Prudence Home Encounter]] <--> [[202204162114 - Zaas Bottle Naerth Encounter]]
+
+<span class='ob-timelines' data-date='1501-03-28-00' data-title="Zari Owen Naerth Schedule Encounter"></span>

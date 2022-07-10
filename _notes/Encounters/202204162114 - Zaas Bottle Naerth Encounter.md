@@ -3,6 +3,7 @@ title: "Encounter: Zaas Bottle Naerth"
 tags:
   - story
   - encounter
+  - timeline
 menu: Encounters
 ---
 **Objective:** Get [[Zassteeah Zass Maryis]] bottle into [[Naerth Maxildanarr]]'s office by a food tray with a flower bottle
@@ -29,3 +30,5 @@ menu: Encounters
 
 **Timeline**
 [[000000000003 - Zari Owen Naerth Schedule Encounter]] <--> [[202204162129 - Save Zaas Encounter]]
+
+<span class='ob-timelines' data-date='1502-03-28-00' data-title="Zaas Bottle Naerth Encounter"></span>

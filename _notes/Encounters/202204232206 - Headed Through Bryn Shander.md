@@ -1,6 +1,6 @@
 ---
 title: "Encounter: Headed Through Bryn Shander"
-tags: [encounter]
+tags: [encounter, timeline]
 menu: Encounters
 ---
 **Objective:** Catch [[Captain Skath]] and the [[Cauldron of Plenty]] on the road to [[Goodmead]]
@@ -21,3 +21,5 @@ menu: Encounters
 
 **Timeline**
 [[202204232033 - Skaths House Investigation]] <--> [[202204232305 - On The Way to Goodmead]]
+
+<span class='ob-timelines' data-date='1507-03-28-00' data-title="Headed Through Bryn Shander"></span>
