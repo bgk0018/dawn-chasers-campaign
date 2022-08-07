@@ -15,4 +15,4 @@ menu: Encounters
 - [[Raphael King Ambrosius Costeau|King]] went down and got brought back up
 
 **Timeline**
- [[202207092247 - Headed to Caer Dineval]] <--> 
+ [[202207092247 - Headed to Caer Dineval]] <--> [[202208062129 - Headed to Caer Dineval for Real]]
