@@ -32,10 +32,10 @@ menu: Encounters
 - [[Zassteeah Zass Maryis|Zaas]] picks up one of the obsidian weapons
 	- It's made out of [[Chardalyn]]
 - [[Mr Feely]] goes to pull the ring from the body and it shatters and teleports everyone to a mountain side
-- [[Sulk]] notes that we were teleported to the east side of [[Lac Dinneshere]]
+- [[Sulk]] took the [[Chardalyn]] weapon
 
 
 **Timeline**
  [[202207092119 - Returning the Cauldron]] <--> [[202207162303 - Into the Cave of the Berserkers]]
  
-<span class='ob-timelines' data-date='2022-07-09-00' data-title="Headed to Caer Dineval"></span>
+<span class='ob-timelines' data-date='2022-07-16-00' data-title="Headed to Caer Dineval"></span>
