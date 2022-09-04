@@ -38,6 +38,4 @@ menu: Encounters
 - The barbarian follows us until he gets to the cave entrance
 
 **Timeline**
- [[202207092247 - Headed to Caer Dineval]] <--> 
- 
-<span class='ob-timelines' data-date='2022-07-23-00' data-title="Into the Cave of the Berserkers"></span>
+ [[202207092247 - Headed to Caer Dineval]] <--> [[202208062129 - Headed to Caer Dineval for Real]]

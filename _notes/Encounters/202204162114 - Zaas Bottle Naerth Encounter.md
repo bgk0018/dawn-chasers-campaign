@@ -5,6 +5,7 @@ tags:
   - encounter
   - timeline
 menu: Encounters
+alias: [I'm a Genie in a Bottle Baby]
 ---
 **Objective:** Get [[Zassteeah Zass Maryis]] bottle into [[Naerth Maxildanarr]]'s office by a food tray with a flower bottle
 
@@ -29,6 +30,10 @@ menu: Encounters
 - Sends [[Captain Skath]] to [[Goodmead]] to make sure that everything goes according to plan
 
 **Timeline**
+<<<<<<< Updated upstream
 [[000000000003 - Zari Owen Naerth Schedule Encounter]] <--> [[202204162129 - Save Zaas Encounter]]
 
 <span class='ob-timelines' data-date='1502-03-28-00' data-title="Zaas Bottle Naerth Encounter"></span>
+=======
+[[000000000003 - Zari Owen Naerth Schedule Encounter|Zari Owen Naerth Schedule Encounter]] <--> [[202204162129 - Save Zaas Encounter]]
+>>>>>>> Stashed changes
