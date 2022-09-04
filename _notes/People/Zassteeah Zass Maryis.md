@@ -1,7 +1,6 @@
 ---
 title: Zassteeah Zass Maryis
-tags:
-  - player-character
+tags: [player-character]
 menu: People
 alias: [Zaas]
 ---

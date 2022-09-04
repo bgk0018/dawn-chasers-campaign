@@ -25,7 +25,7 @@ menu: Encounters
 - We follow the footprints
 - [[Raphael King Ambrosius Costeau|King]] notes a jet black, shiney, lump of rock, very familiar, looks similar to the weapon [[Sulk]] picked up, made out of [[Chardalyn]].
 - The footprints take a few alleyways into the town, leading to [[The Dinev's Rest]] which is an old inn and has been out of business for some time
-- Don't see any theives cant nearby
+- Don't see any thieves cant nearby
 - Do see writing in [[Undercommon]], a few symbols, but not everything is familiar
 	- It's the [[Duergar]] language
 - [[Sam Slippy Robbins|Sam]] sees 2 individuals, hear 2 others inside
@@ -33,7 +33,7 @@ menu: Encounters
 	- They have a large stack of [[Chardalyn]]
 - [[Zassteeah Zass Maryis|Zaas]], [[Sulk]], and [[Zari]] push in the front door
 - [[Sam Slippy Robbins|Sam]] and [[Raphael King Ambrosius Costeau|King]] flank and get a sneak attack round on the guys
-- 
+- We find piles of [[Chardalyn]]
 
 **Timeline**
-[[202207162303 - Into the Cave of the Berserkers]] <--> 
+[[202207162303 - Into the Cave of the Berserkers]] <--> [[202209032141 - The Chardalyn Pile]]
