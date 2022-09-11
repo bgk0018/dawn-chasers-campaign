@@ -1,5 +1,5 @@
 ---
-title: "Encounter: 202209032141 - The Chardalyn Pile"
+title: "Encounter: The Chardalyn Pile"
 tags: [encounter, timeline]
 menu: Encounters
 ---
@@ -51,4 +51,4 @@ Learn about the [[Chardalyn]] in the [[The Dinev's Rest]]
 - The gentleman's name is [[Cadroth the Fiery]]
 
 **Timeline**
-[[202208062129 - Headed to Caer Dineval for Real]] <--> 
+[[202208062129 - Headed to Caer Dineval for Real]] <--> [[202209102021 - Guests of the Caer Dineval Keep]]
