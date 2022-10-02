@@ -69,4 +69,4 @@ Learn about the current state of the [[Cult]] and the speaker of [[Caer Dineval]
 - [[Zassteeah Zass Maryis|Zaas]] makes agreement with [[Chronic Seether]] to sign a pact with her patron
 
 **Timeline**
-  [[202209032141 - The Chardalyn Pile]] <--> 
+  [[202209032141 - The Chardalyn Pile]] <--> [[202210021408 - Sneaky Sneak in the Castle Keep]]
