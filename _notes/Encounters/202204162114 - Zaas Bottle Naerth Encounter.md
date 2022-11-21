@@ -18,7 +18,7 @@ alias: [I'm a Genie in a Bottle Baby]
 - [[Naerth Maxildanarr]] takes the tray into the office
 - [[Captain Skath]] arrives
 - [[Naerth Maxildanarr]] asks if [[Captain Skath]] had been seen in sending 'the item' to [[Goodmead]]
-- Plans in [[Bremen]], [[Shalescar]] will wander off again, and when that happens you can make your way there
+- Plans in [[Bremen]], [[Dorbulgruf Shalescar]] will wander off again, and when that happens you can make your way there
 - Once we re-establish contact with [[Rexentruum]] after this winter is up, we'll get more help, this is probably the [[Myriad]]
 - Perhaps the [[Dawn Chasers]] can be put to some kind of use
 - [[Naerth Maxildanarr]] knows that the [[Dawn Chasers]] followed [[Prudence]] closely

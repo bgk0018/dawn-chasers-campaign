@@ -17,7 +17,7 @@ menu: Encounters
 - 12 feet above the water is the ceiling
 - Can't tell how deep the water is, there's a rowboat there
 - The boat itself looks safe to use
-- [[Mr Feely]] a door on the lft that he was unable to go through
+- [[Mr Feely]] a door on the left that he was unable to go through
 - He saw an ice pillar on the right with brown mold
 - Attempted to pass the ice pillar and was poofed out of existence
 - Go back to the room and sleep
@@ -27,7 +27,7 @@ menu: Encounters
 	- She commits to getting the [[Chronic Seether]] to sign
 	- She commits to taking over if things go sideways with [[Chronic Seether]]
 - [[Mare]] drops off breakfast
-- [[Mike the Guard]] is guarding [[Cadroth the Fiery]]
+- [[Mike Steelmoore]] is guarding [[Cadroth the Fiery]]
 - [[Cadroth the Fiery]] is hunger over in the room
 - Has many letters in front of him that were unbeknownst to him written by [[Zassteeah Zass Maryis|Zaas]]
 - [[Zassteeah Zass Maryis|Zaas]] convinces [[Cadroth the Fiery]] to have [[Chronic Seether]] sign papers
@@ -58,9 +58,10 @@ menu: Encounters
 - Come back upstairs and make signs
 - Go put up signs around town about the signing
 - [[Zassteeah Zass Maryis|Zaas]] and [[Sam Slippy Robbins|Sam]] talk to [[Cadroth the Fiery]] and swap out the papers to be signed by [[Chronic Seether]]
-- [[Zassteeah Zass Maryis|Zaas]] talks with [[Mike the Guard]] trying to convince him to come to our side for tomorrow as he has reservations about the cult
+- [[Zassteeah Zass Maryis|Zaas]] talks with [[Mike Steelmoore]] trying to convince him to come to our side for tomorrow as he has reservations about the cult
+- Long rest
 
 
 
 **Timeline**
- [[202209102021 - Guests of the Caer Dineval Keep]]<--> 
+ [[202209102021 - Guests of the Caer Dineval Keep]]<--> [[202210231513 - The Big Culty Reveal]]
