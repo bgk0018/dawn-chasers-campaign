@@ -1,5 +1,5 @@
 ---
-title: Durth
+title: Durth Sunblight
 tags: [npc]
 menu: People
 ---

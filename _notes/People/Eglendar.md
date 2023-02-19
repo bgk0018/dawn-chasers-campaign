@@ -4,4 +4,4 @@ tags: [npc]
 menu: People
 ---
 
-Owns the [[Hook line and sinker]]
+Owns the [[Hook line and Sinker]]

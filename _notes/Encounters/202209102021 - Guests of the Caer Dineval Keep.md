@@ -43,7 +43,7 @@ Learn about the current state of the [[Cult]] and the speaker of [[Caer Dineval]
 - [[Hethel Archaran]] is the old lady and she has information
 	- She's dying and she's seen the future and its not great
 	- She know where's she's headed and its not a good place
-	- The duergar are under the control of a warlord [[Xardorok]] and he's the worst kind and doing all sorts of atrocities
+	- The duergar are under the control of a warlord [[Xardorok Sunblight]] and he's the worst kind and doing all sorts of atrocities
 	- He will conquer [[Icewind Dale]], it's haunts her dreams
 	- He has a fortress hidden in the [[Spine of the World]]
 	- In it is a forge that is fired by a red dragon's heart
