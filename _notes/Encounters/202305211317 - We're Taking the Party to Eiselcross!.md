@@ -35,7 +35,12 @@ menu: Encounters
 		- [[Melthrond]], is his rider
 		- Dragon is smashing us
 		- Dragon seems to be senile
-		- 
+		- [[Sam Slippy Robbins|Sam]] climbs the dragon and releases the rider from the dragon's back, he's long dead, a skeleton
+		- [[Raphael King Ambrosius Costeau|King]] and [[Zassteeah Zass Maryis|Zaas]] begin trying to persuade the dragon to chill
+		- [[Sam Slippy Robbins|Sam]] disguises self as the rider and attempts to convince the dragon to leave us alone
+		- Ends up not working, but the dragon was looking for the body, we book it
+		- We make major distance, and the dragon scoops the body back up and puts it back on its back
+
 
 **Timeline**
 [[202304231207 - Donner Party]] <--> 
