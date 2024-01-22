@@ -13,10 +13,5 @@ alias: [Golden Bear Caravan Torga Encounter]
 **Encounter:**
 
 **Timeline**
-<<<<<<< Updated upstream
- <--> [[000000000002 - Targos Prudence Home Encounter]]
+<--> [[000000000002 - Targos Prudence Home Encounter]]
  
-<span class='ob-timelines' data-date='1499-03-28-00' data-title="Golden Bear Caravan Torga Encounter"></span>
-=======
- <--> [[000000000002 - Targos Prudence Home Encounter|Targos Prudence Home Encounter]]
->>>>>>> Stashed changes

@@ -19,10 +19,4 @@ alias: [Targos Prudence Home Encounter]
     * Find a [[Prudence Note]]
 
 **Timeline**
-<<<<<<< Updated upstream
 [[000000000001 - Golden Bear Caravan Torga Encounter]] <--> [[000000000003 - Zari Owen Naerth Schedule Encounter]]
-
-<span class='ob-timelines' data-date='1500-03-28-00' data-title="Targos Prudence Home Encounter"></span>
-=======
-[[000000000001 - Golden Bear Caravan Torga Encounter|Golden Bear Caravan Torga Encounter]] <--> [[000000000003 - Zari Owen Naerth Schedule Encounter|Zari Owen Naerth Schedule Encounter]]
->>>>>>> Stashed changes

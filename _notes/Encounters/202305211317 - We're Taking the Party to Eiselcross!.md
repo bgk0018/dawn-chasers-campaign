@@ -9,7 +9,7 @@ menu: Encounters
 **Encounter:**
 
 - Got to a campsite, medium sized build that was laying here
-- At the campsite we recognize an indentation of the boom in the snow
+- At the campsite we recognize an indentation of the book in the snow
 - This was [[Avaris]]'s camp
 - She's heading southernly towards [[Caer-Konig]]
 - We decide to follow her instead of heading towards the [[Seas of Moving Ice]] for the [[Dark Duchess]]
@@ -43,4 +43,4 @@ menu: Encounters
 
 
 **Timeline**
-[[202304231207 - Donner Party]] <--> 
+[[202304231207 - Donner Party]] <--> [[202306251251 - We Bravely Ran Away Away]]

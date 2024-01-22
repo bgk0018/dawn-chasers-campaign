@@ -1,5 +1,5 @@
-----
-title: Spine of the World
+---
+title: Sunblight Fortress
 tags: [location]
 menu: Locations
 ---

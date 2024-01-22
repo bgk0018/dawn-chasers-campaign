@@ -18,10 +18,4 @@ alias: [Zari Owen Naerth Schedule Encounter]
 * We'll rescue [[Zassteeah Zass Maryis]] from the room and the bottle
 
 **Timeline**
-<<<<<<< Updated upstream
 [[000000000002 - Targos Prudence Home Encounter]] <--> [[202204162114 - Zaas Bottle Naerth Encounter]]
-
-<span class='ob-timelines' data-date='1501-03-28-00' data-title="Zari Owen Naerth Schedule Encounter"></span>
-=======
-[[000000000002 - Targos Prudence Home Encounter|Targos Prudence Home Encounter]] <--> [[202204162114 - Zaas Bottle Naerth Encounter]]
->>>>>>> Stashed changes
